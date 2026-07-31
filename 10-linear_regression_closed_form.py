@@ -25,3 +25,4 @@ w0, w1 = simple_linear_regression_closed_form(X, Y)
 
 assert np.isclose(w0, 0.0)
 assert np.isclose(w1, 5.0)
+
