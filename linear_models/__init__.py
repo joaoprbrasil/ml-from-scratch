@@ -1,0 +1,2 @@
+from .linear_regression_closed_form import linear_regression_closed_form
+from .linear_regression_gradient_descent import simple_linear_regression_gradient_descent
